@@ -57,7 +57,7 @@ class PortfolioItem {
 }
 
 // Usage example:
-const dataUrl = "../data/data.json";
+const dataUrl = "data/data.json";
 const api = new Api(dataUrl);
 
 api.fetchData().then((jsonData) => {
