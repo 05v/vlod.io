@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    background: #0165B3;
+    font-size: 4rem;
+    color: white;
+    justify-content: space-between;
+    font-weight: bold;
+    gap: 6rem;
+
+    &__logoWrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    &__logo {
+        font-size: 8rem;
+    }
+
+    &__title {}
+
+    &__slogan {
+        &Mobile {
+            display: none;
+        }
+    }
+}

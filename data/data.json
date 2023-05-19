@@ -1,0 +1,211 @@
+[
+    {
+        "title": "Agenda App",
+        "projectURL": "https://github.com/05v/F3M8SKIL/tree/main/AgendaApp",
+        "imageUrl": "assets/portfolioImage/agendaApp.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "90.0%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "7.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "2.3%"
+            }
+        ]
+    },
+    {
+        "title": "Career anchor",
+        "projectURL": "https://github.com/05v/DoesburgLoopbaananker",
+        "imageUrl": "assets/portfolioImage/careerAnchor.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "99.7%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "0.3%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "N/A"
+            }
+        ]
+    },
+    {
+        "title": "Happiness Collection",
+        "projectURL": "https://github.com/05v/collectionOfHappiness",
+        "imageUrl": "assets/portfolioImage/collectionOfHappiness.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "79.6%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "18.2%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "2.1%"
+            }
+        ]
+    },
+    {
+        "title": "Game Selector",
+        "projectURL": "https://github.com/05v/F3M7PROG/tree/main/WEEK5_GamesBacklog",
+        "imageUrl": "assets/portfolioImage/gameSelector.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "73.5%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "20.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "5.8%"
+            }
+        ]
+    },
+    {
+        "title": "Bank App",
+        "projectURL": "https://github.com/05v/F3M7PROG/tree/main/WEEK4_Banky",
+        "imageUrl": "assets/portfolioImage/bankApp.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "73.5%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "20.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "5.8%"
+            }
+        ]
+    },
+    {
+        "title": "Cookie Clicker V2",
+        "projectURL": "https://github.com/05v/F3M7PROG/tree/main/WEEK3_CookieClickerVersion2",
+        "imageUrl": "assets/portfolioImage/CookieClickerV2.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "73.5%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "20.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "5.8%"
+            }
+        ]
+    },
+    {
+        "title": "Color Picker",
+        "projectURL": "https://github.com/05v/F3M7PROG/tree/main/WEEK2_ColorPicker",
+        "imageUrl": "assets/portfolioImage/ColorPicker.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "73.5%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "20.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "5.8%"
+            }
+        ]
+    },
+    {
+        "title": "Cookie Clicker V1",
+        "projectURL": "https://github.com/05v/F3M7PROG/tree/main/WEEK1_CookieClicker",
+        "imageUrl": "assets/portfolioImage/CookieClickerV1.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "73.5%"
+            },
+            {
+                "name": "SCSS",
+                "percentage": "20.5%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "5.8%"
+            }
+        ]
+    },
+    {
+        "title": "Markant website",
+        "projectURL": "https://github.com/05v/BWP-Page",
+        "imageUrl": "assets/portfolioImage/markantWebsite.png",
+        "languages": [
+            {
+                "name": "HTML",
+                "percentage": "58.7%"
+            },
+            {
+                "name": "CSS",
+                "percentage": "36.8%"
+            },
+            {
+                "name": "JavaScript",
+                "percentage": "4.5%"
+            }
+        ]
+    },
+    {
+        "title": "Personal website",
+        "projectURL": "https://github.com/05v/F2M4BO",
+        "imageUrl": "assets/portfolioImage/personalWebsite.png",
+        "languages": [
+            {
+                "name": "HTML",
+                "percentage": "58.2%"
+            },
+            {
+                "name": "CSS",
+                "percentage": "41.8%"
+            },
+            {
+                "name": "JavaScript",
+                "percentage": "0%"
+            }
+        ]
+    },
+    {
+        "title": "Weather Dashboard",
+        "projectURL": "https://github.com/05v/F2M3BO",
+        "imageUrl": "assets/portfolioImage/weatherDashboard.png",
+        "languages": [
+            {
+                "name": "JavaScript",
+                "percentage": "48.3%"
+            },
+            {
+                "name": "HTML",
+                "percentage": "35.2%"
+            },
+            {
+                "name": "CSS",
+                "percentage": "16.5%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+.main {
+    padding: 4rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+
+    &__socials {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 4rem;
+        font-size: 6rem;
+        padding-bottom: 4rem;
+
+        &Icon {
+            color: darken(#0165B3, 10%);
+            transition: color 0.2s ease-in-out;
+
+            &:hover {
+                color: darken(#0165B3, 20%);
+            }
+        }
+
+        &Slogan {
+            font-size: 2.5rem;
+            max-width: 90vh;
+        }
+    }
+
+    &__portfolio {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 4rem;
+
+        &Item {
+            padding: 1rem;
+            border: solid rgb(236, 236, 236) 0.2rem;
+            border-top-right-radius: 5%;
+            border-bottom-left-radius: 5%;
+            max-width: 50vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            text-decoration: none;
+            transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+
+            &:hover {
+                background-color: darken(rgb(255, 255, 255), 3%);
+                border: solid rgb(218, 218, 218) 0.2rem;
+            }
+        }
+
+        &Wrapper {
+            flex-basis: calc(25% - 4rem);
+            max-width: 50vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            color: black;
+        }
+
+        &Title {
+            font-size: 3rem;
+            font-weight: 600;
+        }
+
+        &Image {
+            max-width: 90%;
+            border: solid rgb(236, 236, 236) 0.1rem;
+            border-radius: 3%;
+        }
+
+        &Languages {
+            list-style: none;
+            display: flex;
+            flex-direction: row;
+            gap: 2.5rem;
+        }
+
+        &Language {
+            font-size: 1.7rem;
+            font-weight: 500;
+        }
+    }
+}
