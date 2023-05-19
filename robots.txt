@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /data/
+Disallow: /assets/
+Disallow: /scss/
+Sitemap: https://vlod.io/sitemap.xml
